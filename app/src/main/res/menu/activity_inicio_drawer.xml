@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_discuss"
+            android:title="@string/menu_inicio" />
+        <item
+            android:id="@+id/nav_eventos"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="@string/menu_eventos" />
+        <item
+            android:id="@+id/nav_sacramentos"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/menu_sacramentos" />
+        <item
+            android:id="@+id/nav_notificaciones"
+            android:icon="@android:drawable/ic_dialog_email"
+            android:title="@string/menu_notificaciones" />
+        <item
+            android:id="@+id/nav_horarios"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/menu_horarios" />
+    </group>
+
+    <item android:title="Comunícate ">
+        <menu>
+            <item
+                android:id="@+id/nav_contacto"
+                android:icon="@android:drawable/ic_menu_call"
+                android:title="@string/menu_contacto" />
+            <item
+                android:id="@+id/nav_localizanos"
+                android:icon="@android:drawable/ic_dialog_map"
+                android:title="@string/menu_localizanos" />
+        </menu>
+    </item>
+
+</menu>

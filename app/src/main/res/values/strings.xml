@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">San Felipe Apostol App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Colores-->
+    <color name="fondo">#000000</color>
+    <color name="inicio_gradiante_menu">#4febfa</color>
+    <color name="centro_gradiante_menu">#45a9d7</color>
+    <color name="fin_gradiante_menu">#5aacb4</color>
+    <color name="barra_titulo">#5aacb4</color>
+    <color name="lista_notificaciones_inicio">#c5eaf8</color>
+    <color name="lista_notificaciones_centro">#e2f4fb</color>
+    <color name="lista_notificaciones_fin">#ffffff</color>
+    <color name="fondo_lista_notificaciones">#5aacb4</color>
+    <color name="letra_hora">#4ad2ff</color>
+    <color name="blanco">#ffffff</color>
+    <color name="negro">#000000</color>
+    <!--Fin de Colores-->
+
+    <!--Titulos Acciones de Menu-->
+    <string name="menu_eventos">Tablero de Eventos</string>
+    <string name="menu_localizanos">Localízanos</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_horarios">Horarios</string>
+    <string name="menu_sacramentos">Sacramentos</string>
+    <string name="menu_notificaciones">Notificaciones</string>
+    <string name="menu_inicio">Inicio</string>
+    <!--Fin Titulos de Menu-->
+
+    <!--Acciones de Menu-->
+    <string name="action_settings">Settings</string>
+    <!--Fin Acciones de Menu-->
+
+    <!--Titulos-->
+    <string name="parroquia">Parroquia San Felipe</string>
+    <string name="correo_parroquia"></string>
+    <string name="telefono_parroquia">(614) 4-14-38-27</string>
+    <string name="direccion_parroquia">Estrada Bocanegra y Gral. Retana, Col. San Felipe, Chihuahua, Chih. México </string>
+    <string name="correo_uno">Párroco Pbro. Víctor Quintana: san.felipe.apostol@hotmail.com</string>
+    <string name="correo_dos">Vicario Pbro. Pbro. Manuel Ruiz LC</string>
+    <string name="lema_parroquia">Somos Iglesia En Misión Permanente</string>
+    <string name="primer_parrafo_portada">Biografía San Félipe Apostol</string>
+    <string name="segundo_parrafo_portada">Segundo Parrafo</string>
+    <string name="tercero_parrafo_portada">Tercer Parrafo</string>
+
+    <string name="title_activity_horarios">Horarios</string>
+    <string name="title_activity_sacramentos">Sacramentos</string>
+    <string name="title_activity_notificaciones">Notificaciones</string>
+    <string name="title_activity_eventos">Eventos</string>
+    <string name="title_activity_contacto">Contacto</string>
+    <string name="title_activity_localizanos">Localízanos</string>
+    <string name="title_activity_localizanos2">Localízanos</string>
+    <!--Fin Titulos-->
+
+    <!--Parrafos Portada-->
+    <string name="contenido_primer_parrafo_portada">Bienvenido a tu aplicación donde podrás conocer
+        más sobre tu parroquia.</string>
+
+    <string name="contenido_segundo_parrafo_portada">Texto segundo parrafo.</string>
+
+    <string name="contenido_tercer_parrafo_portada">Texto tercer parrafo.</string>
+
+    <!--Fin Parrafos Portada-->
+
+    <!--Paarrafos Sacramentos-->
+    <string name="primer_parrafo_bautizos">Primer domingo de cada mes de 8:00 AM a  3:00 PM,  En el Centro Pastoral
+        San Felipe.</string>
+    <string name="segundo_parrafo_bautizos">Los papas y padrinos deberán inscribirse en la oficina parroquial con
+        su credencial de elector, si son casados por la Iglesia deben de presentar el acta de Matrimonio,
+        si son solteros deben de presentar la fe de confirmación.</string>
+    <string name="tercer_parrafo_bautizos">Si los papás no son casados por la Iglesia y no están confirmados eso no es ningún
+        impedimento para que bauticen a su hijo.</string>
+    <string name="cuarto_parrafo_bautizos">Los bautizos se celebran el segundo y cuarto Sábado de cada mes a las
+        12:00 PM.</string>
+    <string name="quinto_parrafo_bautizos">Los papás deberán pertenecer a esta parroquia, caso contrario deberán presentar
+        un permiso de su parroquia.</string>
+    <string name="sexto_parrafo_bautizos">1. Acta de Nacimiento del Bebé.</string>
+    <string name="septimo_parrafo_bautizos">2. Comprobante de Pláticas  Pre- Bautismales por parte de Papás y Padrinos.</string>
+    <string name="octavo_parrafo_bautizos">3. Papás y Padrinos si son casados por la Iglesia necesitan presentar acta de matrimonio.</string>
+    <string name="noveno_parrafo_bautizos">4. Papás y Padrinos si son solteros  necesitan presentar acta de confirmación.</string>
+
+    <string name="primer_parrafo_comunion">30 de Agosto y 1 de Septiembre.</string>
+    <string name="segundo_parrafo_comunion">Copia de la  Fe de Bautismo.</string>
+    <string name="tercero_parrafo_comunion">Sábados de 9:00 AM a 12:00 PM.</string>
+    <string name="cuarto_parrafo_comunion">El curso empieza en Septiembre y Termina en Junio</string>
+
+    <string name="parrafo_matrimonio_1">*Pertenecer a esta parroquia.</string>
+    <string name="parrafo_matrimonio_2">*Acta de Bautismo, que sea reciente, no mas de seis meses.</string>
+    <string name="parrafo_matrimonio_3">*Copia del acta de nacimiento.</string>
+    <string name="parrafo_matrimonio_4">*Copia del Acta de Confirmación.</string>
+    <string name="parrafo_matrimonio_5">*Comprobante de pláticas prematrimoniales.</string>
+    <string name="parrafo_matrimonio_6">*Copia de CURP.</string>
+    <string name="parrafo_matrimonio_7">*Copia del IFE.</string>
+    <string name="parrafo_matrimonio_8">*Copia del Comprobante de Domicilio.</string>
+    <string name="parrafo_matrimonio_9">*3 Fotografías de cada uno de los novios.</string>
+    <string name="parrafo_matrimonio_10">*Acta de matrimonio civil, si ya lo realizaron.</string>
+    <string name="parrafo_matrimonio_11">*Tres meses antes de la boda, por lo menos, se hace la presentación matrimonial,
+        que consiste en una entrevista personal con un sacerdote en la que bajo juramente ante Dios,
+        se da la información canónica previa al matrimonio.</string>
+    <string name="parrafo_matrimonio_12">*Para la presentación matrimonial se ha de solicitar cita en
+        la oficina parroquial con todos los requisitos completos.</string>
+    <string name="parrafo_matrimonio_13">*En la presentación, los novios han de ir acompañados de dos
+        testigos por cada uno, de preferencias sus padres, familiares más cercanos</string>
+    <string name="parrafo_matrimonio_14">*Las pláticas son en la casa del movimiento familiar cristiano,
+        en la calle matamoros# 2445 (Atrás del Santuario de Guadalupe)</string>
+
+    <string name="parrafo_catecumenado_1">Es el curso mediante el cual las personas mayores de 18 años se
+        preparan para recibir los sacramentos del bautizo,
+        primera comunión y confirmación en caso de no contar con cualquiera de ellos.</string>
+    <string name="parrafo_catecumenado_2">Las inscripciones son durante el mes de agosto en la oficina
+        parroquial.</string>
+    <string name="parrafo_catecumenado_3">Martes de 20:00 a 21:30</string>
+    <string name="parrafo_catecumenado_4">El curso tiene una duración de 9 meses.</string>
+
+    <!--Fin Paarrafos Sacramentos-->
+
+    <!--Info Misas-->
+    <string name="info_misa_1">Lunes a Viernes</string>
+    <string name="info_misa_2">08:30  y  19:30</string>
+    <string name="info_misa_3">08:30  ,  18:00   y  19:30</string>
+    <string name="info_misa_4">Sabados</string>
+    <string name="info_misa_5">09:00  ,  11:00 (Misa para niños)  ,  12:30  ,  18:00  y  19:30</string>
+    <string name="info_misa_6">*18:00</string>
+    <string name="info_misa_7">*09:00</string>
+    <string name="info_misa_8">*11:00</string>
+    <string name="info_misa_9">*12:30</string>
+    <string name="info_misa_10">Jueves y Viernes</string>
+    <string name="info_misa_11">17:00 a 19:30</string>
+    <string name="info_misa_12">Hora Santa</string>
+    <string name="info_misa_13">Jueves</string>
+    <string name="info_misa_14">18:30</string>
+    <string name="info_misa_15">Domingo</string>
+    <string name="info_misa_16">Viernes</string>
+    <string name="info_misa_17">16:00   ,   17:00   y   18:00</string>
+    <!--Info Misas-->
+
+</resources>
+
